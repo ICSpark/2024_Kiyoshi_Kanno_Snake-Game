@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-image: url("Junglebg.jpg");
+}
+h1, h2{
+  text-align: center;
+  color: white;
+}
+#game{
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  background-color:white;
+}
+#button{
+  display: flex;
+  justify-content: center;
+}
+
+.score{
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+  margin: auto;
+} 
